@@ -42,4 +42,8 @@ export default {
 .add-item input:focus {
   border-bottom-color: rgba(255, 255, 255, 1);
 }
+
+.add-item {
+  margin: 30px 0;
+}
 </style>
