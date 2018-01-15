@@ -7,7 +7,9 @@ Vue.use(Vuex);
 export default new Vuex.Store({
   state: {
     items: {
-      todo: []
+      todo: [],
+      inProgress: [],
+      done: []
     },
     nextId: 1
   },
