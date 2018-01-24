@@ -1,5 +1,7 @@
 # VueJS Kanban Board
 
+> A sample application demonstrating a basic kanban board, seeded with [vue-cli](https://github.com/vuejs/vue-cli)
+
 ## Build Setup
 
 ``` bash
