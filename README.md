@@ -1,6 +1,4 @@
-# auth0-kanban
-
-> A Vue.js project
+# VueJS Kanban Board
 
 ## Build Setup
 
