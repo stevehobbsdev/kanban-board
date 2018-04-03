@@ -1,5 +1,6 @@
-# auth0-kanban
-> A Vue.js project
+# VueJS Kanban Board
+
+> A sample application demonstrating a basic kanban board, seeded with [vue-cli](https://github.com/vuejs/vue-cli)
 
 ![The Kanban board view](/screenshots/kanban-board.png?raw=true "The board view")
 ![The Kanban backlog view](/screenshots/kanban-backlog.png?raw=true "The backlog view")
