@@ -1,6 +1,8 @@
 # auth0-kanban
-
 > A Vue.js project
+
+![The Kanban board view](/screenshots/kanban-board.png?raw=true "The board view")
+![The Kanban backlog view](/screenshots/kanban-backlog.png?raw=true "The backlog view")
 
 ## Build Setup
 
