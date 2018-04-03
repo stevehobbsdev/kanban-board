@@ -1,7 +1,5 @@
 # VueJS Kanban Board
 
-> A sample application demonstrating a basic kanban board, seeded with [vue-cli](https://github.com/vuejs/vue-cli)
-
 This is the companion code repository for the [Auth0](https://auth0.com) blog article [Vue.js Kanban Board: The Development Process](https://auth0.com/blog/vuejs-kanban-board-the-development-process); a client-side Kanban board written in Vue.js.
 
 ## Demo application
