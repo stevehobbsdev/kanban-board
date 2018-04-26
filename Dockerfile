@@ -22,7 +22,7 @@ COPY package.json /app
 
 RUN npm install --production -q
 
-COPY --from=build /app/dist /app
+COPY --from=build /app/dist /app/dist
 
 EXPOSE 8080
 
