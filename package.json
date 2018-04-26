@@ -11,11 +11,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "http-server": "^0.11.1",
-    "vue": "^2.5.2",
-    "vue-router": "^3.0.1",
-    "vuedraggable": "^2.16.0",
-    "vuex": "^3.0.1"
+    "http-server": "^0.11.1"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
@@ -57,7 +53,11 @@
     "webpack": "^3.6.0",
     "webpack-bundle-analyzer": "^2.9.0",
     "webpack-dev-server": "^2.9.1",
-    "webpack-merge": "^4.1.0"
+    "webpack-merge": "^4.1.0",
+    "vue": "^2.5.2",
+    "vue-router": "^3.0.1",
+    "vuedraggable": "^2.16.0",
+    "vuex": "^3.0.1"
   },
   "engines": {
     "node": ">= 4.0.0",
