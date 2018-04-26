@@ -6,11 +6,12 @@
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
-    "start": "npm run dev",
+    "start": "http-server dist/",
     "lint": "eslint --ext .js,.vue src",
     "build": "node build/build.js"
   },
   "dependencies": {
+    "http-server": "^0.11.1",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1",
     "vuedraggable": "^2.16.0",
