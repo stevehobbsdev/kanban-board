@@ -63,17 +63,3 @@ export default {
   }
 };
 </script>
-
-<style>
-.card {
-  margin-bottom: 10px;
-}
-
-.card:last-child {
-  margin-bottom: 25px;
-}
-
-.card-block {
-  padding: 15px;
-}
-</style>
