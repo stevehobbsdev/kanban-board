@@ -30,6 +30,3 @@ export default {
   })
 };
 </script>
-
-Now we're at a stage where we have all three lanes on our Kanban board, and we can create new items and have the populate the 'todo' lane. For the final step, let's look into how we can move tasks from one lane to another.
-
