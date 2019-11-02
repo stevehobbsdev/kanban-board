@@ -2,9 +2,7 @@
 
 This is the companion code repository for the [Auth0](https://auth0.com) blog article [Vue.js Kanban Board: The Development Process](https://auth0.com/blog/vuejs-kanban-board-the-development-process); a client-side Kanban board written in Vue.js.
 
-## Demo application
-
-Feel free to play around with [the demo application](https://kanban.elkdanger.co.uk) that accompanies this code.
+## The Finished App
 
 Some screenshots of what you can build with the article:
 
